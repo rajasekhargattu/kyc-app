@@ -37,6 +37,7 @@ function ProfileKYCDataTable() {
   }
   useEffect(() => {
     data.getFilterData();
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
 
   if (data.rows.length === 0) {
