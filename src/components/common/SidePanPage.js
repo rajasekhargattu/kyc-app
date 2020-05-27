@@ -22,7 +22,7 @@ function SidePanPage() {
   const location = useLocation();
   const classes = useStyles();
   const [selectedRow, setSelectedRow] = useState();
-  const [setSelectedIndex] = useState();
+  const [,setSelectedIndex] = useState();
   // const indexRef = useRef();
 
   useEffect(() => {

@@ -30,6 +30,7 @@ const useStyles = makeStyles(theme => ({
   title: {
     width: '70%',
     backgroundColor: pink['A700'],
+    textAlign: 'center',
     color: 'white',
   },
   errorMsg: {
