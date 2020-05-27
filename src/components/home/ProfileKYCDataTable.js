@@ -37,7 +37,7 @@ function ProfileKYCDataTable() {
   }
   useEffect(() => {
     data.getFilterData();
-  });
+  }, []);
 
   if (data.rows.length === 0) {
     return <div id={'errorMessage'}>NO RECORDS FOUND</div>;
