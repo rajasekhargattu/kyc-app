@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/kyc-app/static/css/main.34de6062.chunk.css",
-    "main.js": "/kyc-app/static/js/main.6a85c5a5.chunk.js",
-    "main.js.map": "/kyc-app/static/js/main.6a85c5a5.chunk.js.map",
+    "main.js": "/kyc-app/static/js/main.24fae10c.chunk.js",
+    "main.js.map": "/kyc-app/static/js/main.24fae10c.chunk.js.map",
     "runtime-main.js": "/kyc-app/static/js/runtime-main.8c6410b7.js",
     "runtime-main.js.map": "/kyc-app/static/js/runtime-main.8c6410b7.js.map",
     "static/js/2.fc40a1c3.chunk.js": "/kyc-app/static/js/2.fc40a1c3.chunk.js",
     "static/js/2.fc40a1c3.chunk.js.map": "/kyc-app/static/js/2.fc40a1c3.chunk.js.map",
     "index.html": "/kyc-app/index.html",
-    "precache-manifest.ca9dcc3be1411ed9cc86f7872f0f5e31.js": "/kyc-app/precache-manifest.ca9dcc3be1411ed9cc86f7872f0f5e31.js",
+    "precache-manifest.24968f706c28ffc074391fb0888149c2.js": "/kyc-app/precache-manifest.24968f706c28ffc074391fb0888149c2.js",
     "service-worker.js": "/kyc-app/service-worker.js",
     "static/css/main.34de6062.chunk.css.map": "/kyc-app/static/css/main.34de6062.chunk.css.map",
     "static/js/2.fc40a1c3.chunk.js.LICENSE.txt": "/kyc-app/static/js/2.fc40a1c3.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.8c6410b7.js",
     "static/js/2.fc40a1c3.chunk.js",
     "static/css/main.34de6062.chunk.css",
-    "static/js/main.6a85c5a5.chunk.js"
+    "static/js/main.24fae10c.chunk.js"
   ]
 }
