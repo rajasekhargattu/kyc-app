@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/kyc-app/login/static/css/main.34de6062.chunk.css",
+    "main.js": "/kyc-app/login/static/js/main.0c5d34c8.chunk.js",
+    "main.js.map": "/kyc-app/login/static/js/main.0c5d34c8.chunk.js.map",
+    "runtime-main.js": "/kyc-app/login/static/js/runtime-main.f891bbe1.js",
+    "runtime-main.js.map": "/kyc-app/login/static/js/runtime-main.f891bbe1.js.map",
+    "static/js/2.fc40a1c3.chunk.js": "/kyc-app/login/static/js/2.fc40a1c3.chunk.js",
+    "static/js/2.fc40a1c3.chunk.js.map": "/kyc-app/login/static/js/2.fc40a1c3.chunk.js.map",
+    "index.html": "/kyc-app/login/index.html",
+    "precache-manifest.ef6c0628aef87d1d3d02a8c0607c3ca2.js": "/kyc-app/login/precache-manifest.ef6c0628aef87d1d3d02a8c0607c3ca2.js",
+    "service-worker.js": "/kyc-app/login/service-worker.js",
+    "static/css/main.34de6062.chunk.css.map": "/kyc-app/login/static/css/main.34de6062.chunk.css.map",
+    "static/js/2.fc40a1c3.chunk.js.LICENSE.txt": "/kyc-app/login/static/js/2.fc40a1c3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f891bbe1.js",
+    "static/js/2.fc40a1c3.chunk.js",
+    "static/css/main.34de6062.chunk.css",
+    "static/js/main.0c5d34c8.chunk.js"
+  ]
+}
