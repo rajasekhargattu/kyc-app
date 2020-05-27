@@ -4,7 +4,6 @@ import { makeStyles } from '@material-ui/core/styles';
 import { Button, LinearProgress } from '@material-ui/core';
 import DateFnsUtils from '@date-io/date-fns';
 import { MuiPickersUtilsProvider } from '@material-ui/pickers';
-import { ErrorMessage } from 'formik';
 import TextField from '../../ui/TextField';
 import RaidoButton from '../../ui/RaidoButton';
 import DropDown from '../../ui/DropDown';
