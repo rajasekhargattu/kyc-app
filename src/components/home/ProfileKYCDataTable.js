@@ -28,7 +28,7 @@ function ProfileKYCDataTable() {
   const classes = useStyles();
   const data = useContext(DataContext);
   let history = useHistory();
-  // console.log('data==>', data.rows);
+  console.log('data==>', data.rows);
 
   function editHandler(event, row) {
     event.preventDefault();
@@ -37,7 +37,7 @@ function ProfileKYCDataTable() {
   }
   useEffect(() => {
     data.getFilterData();
-  }, []);
+  });
 
   if (data.rows.length === 0) {
     return <div id={'errorMessage'}>NO RECORDS FOUND</div>;
